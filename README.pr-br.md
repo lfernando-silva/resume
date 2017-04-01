@@ -35,28 +35,28 @@ Operação de máquinas de digitalização. Triagem de material digitalizável.
 ----------
 ## QUALIFICAÇÕES
 
-•	Análise de Requisitos, Modelagem, Prototipagem – Intermediário;
-•	Bancos de Dados Relacionais e Não-Relacionais, ORMs – Intermediário;
-•	Configuração de aplicações em produção: Básico;
-•	Inglês – Intermediário;
-•	Javascript/NodeJS, Frameworks e afins – Avançado;
-•	C/C++ - Intermediário;
+•	Análise de Requisitos, Modelagem, Prototipagem – Intermediário
+•	Bancos de Dados Relacionais e Não-Relacionais, ORMs – Intermediário
+•	Configuração de aplicações em produção: Básico
+•	Inglês – Intermediário
+•	Javascript/NodeJS, Frameworks e afins – Avançado
+•	C/C++ - Intermediário
 •	Java, PHP, C#, Python – Básico;
 •	Protocolos IoT – Básico;
 •	Suporte e Infraestrutura de Informática – Intermediário;
-•	Testes Automatizados de Software – Básico.
-•	RESTfull – Intermediário;
+•	Testes Automatizados de Software – Básico
+•	RESTfull – Intermediário
 •	Sockets (TCP Nativo e frameworks) - Intermediário
 •	Versionamento: GIT/SVN – Intermediário
 
 ----------
 ## INFORMAÇÕES ADICIONAIS
 
-•	Participei da Maratona Regional de Programação (Setembro de 2013).
-•	Participei de bolsas de pesquisa envolvendo automação IF Sudeste MG.
-•	Realizei Trabalho de Conclusão de Curso na área de Internet das Coisas.
-•	Possuo Carteira Nacional de Habilitação, Categoria B.
-•	Trabalho como desenvolvedor web NodeJS freelance.
-•	Trabalho como analista de suporte freelance.
-•	Portfólio pessoal (GitHub): https://github.com/lfernando-silva.
+•	Participei da Maratona Regional de Programação (Setembro de 2013);
+•	Participei de bolsas de pesquisa envolvendo automação IF Sudeste MG;
+•	Realizei Trabalho de Conclusão de Curso na área de Internet das Coisas;
+•	Possuo Carteira Nacional de Habilitação, Categoria B;
+•	Trabalho como desenvolvedor web NodeJS freelance;
+•	Trabalho como analista de suporte freelance;
+•	Portfólio pessoal (GitHub): https://github.com/lfernando-silva;
 •	LinkedIn: https://www.linkedin.com/in/luiz-fernando-da-silva-a07635b4.
