@@ -1,7 +1,9 @@
 # **Luiz Fernando da Silva**
 
 Brasileiro, Solteiro, 28 anos
+
 Juiz de Fora – MG
+
 Telefone: (32) 98813-0582 / E-mail: lfernando-silva@hotmail.com
 
 ## OBJETIVO
@@ -18,15 +20,22 @@ Técnico em Automação Industrial, SENAI -  (Janeiro de 2017/Junho de 2018) –
 ## EXPERIÊNCIAS
 
 •	**SmartI9 Comunicações** – Desde Agosto/2015
+
 Desenvolvedor Fullstack (NodeJS)
+
 Desenvolvimento de APIs NodeJS para Internet das Coisas, modelagem, análise de requisitos e especificações.
 
+
 •	**Instituto Metodista Granbery** - Novembro/2013 a Julho/2015
+
 Analista de Suporte
+
 Realização de manutenções corretiva e preventiva nos laboratórios de informática, backups, suporte geral em informática aos alunos e funcionários. 
 
 •	**Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão (FADEPE)** - de Fevereiro/2013 a Abril/2013.
+
 Operador de Digitalização (Temporário)
+
 Operação de máquinas de digitalização. Triagem de material digitalizável.
 
 ## QUALIFICAÇÕES
