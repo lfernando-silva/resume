@@ -4,11 +4,9 @@ Brasileiro, Solteiro, 28 anos
 Juiz de Fora – MG
 Telefone: (32) 98813-0582 / E-mail: lfernando-silva@hotmail.com
 
-----------
 ## OBJETIVO
 •	Atuar como desenvolvedor Web pleno (fullstack) de sistemas de informação, de automação e/ou internet das coisas.
 
-----------
 ## FORMAÇÃO
 
 •	**Graduação**
@@ -17,7 +15,6 @@ Bacharelado em Sistemas de Informação, IF Sudeste MG -(Janeiro de 2012 /Abril 
 •	**Curso Técnico**
 Técnico em Automação Industrial, SENAI -  (Janeiro de 2017/Junho de 2018) – em andamento.
 
-----------
 ## EXPERIÊNCIAS
 
 •	**SmartI9 Comunicações** – Desde Agosto/2015
@@ -32,7 +29,6 @@ Realização de manutenções corretiva e preventiva nos laboratórios de inform
 Operador de Digitalização (Temporário)
 Operação de máquinas de digitalização. Triagem de material digitalizável.
 
-----------
 ## QUALIFICAÇÕES
 
 •	Análise de Requisitos, Modelagem, Prototipagem – Intermediário
@@ -61,7 +57,6 @@ Operação de máquinas de digitalização. Triagem de material digitalizável.
 
 •	Versionamento: GIT/SVN – Intermediário
 
-----------
 ## INFORMAÇÕES ADICIONAIS
 
 •	Participei da Maratona Regional de Programação (Setembro de 2013)
